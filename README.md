@@ -1,6 +1,6 @@
-## Tecnologias
+## Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
@@ -12,4 +12,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito por Tiago e a ♥ Rocketseat :wave: [Participem da comunidade deles!](https://discordapp.com/invite/gCRAFhc)
+Made by Tiago and ♥ Rocketseat: wave: [Join their community!](https://discordapp.com/invite/gCRAFhc)
